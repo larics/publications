@@ -1,0 +1,66 @@
+@inproceedings{koco2014new,
+  title={New parameterized foot trajectory shape for multi-gait quadruped locomotion with state machine-based approach for executing gait transitions},
+  author={Koco, Edin and Mutka, Alan and Kovacic, Zdenko},
+  booktitle={Control and Automation (MED), 2014 22nd Mediterranean Conference of},
+  pages={1533--1539},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{koco2014multiobjective,
+  title={Multiobjective optimization of a quadruped robot gait},
+  author={Koco, Edin and Glumac, Slaven and Kovacic, Zdenko},
+  booktitle={Control and Automation (MED), 2014 22nd Mediterranean Conference of},
+  pages={1520--1526},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{skeledzija2014smart,
+  title={Smart home automation system for energy efficient housing},
+  author={Skeledzija, Niksa and Cesic, Josip and Koco, Edin and Bachler, Vladimir and Vucemilo, Hrvoje Nikola and Dzapo, Hrvoje},
+  booktitle={Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2014 37th International Convention on},
+  pages={166--171},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{mutka2014adaptive,
+  title={Adaptive control of quadruped locomotion through variable compliance of revolute spiral feet},
+  author={Mutka, Alan and Ko{\v{c}}o, Edin and Kova{\v{c}}i{\'c}, Zdenko},
+  journal={International Journal of Advanced Robotic Systems},
+  volume={11},
+  number={10},
+  pages={162},
+  year={2014},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{koco2016new,
+  title={New variable passive-compliant element design for quadruped adaptation to stiffness-varying terrain},
+  author={Koco, Edin and Mutka, Alan and Kovacic, Zdenko},
+  journal={International Journal of Advanced Robotic Systems},
+  volume={13},
+  number={3},
+  pages={90},
+  year={2016},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{koco2016dynarobin,
+  title={DYNAROBIN-COMPLIANT QUADRUPED RESEARCH PLATFORM FOR RUGGED TERRAIN LOCOMOTION},
+  author={KOCO, EDIN and KOVACIC, ZDENKO},
+  booktitle={Advances in Cooperative Robotics: Proceedings of the 19th International Conference on Clawar 2016},
+  pages={63},
+  year={2016},
+  organization={World Scientific}
+}
+
+@inproceedings{kovco2016multiobjective,
+  title={Multiobjective locomotion optimization of quadruped robot with different 2DOF configurations of actuated spine},
+  author={Ko{\v{c}}o, Edin and Kova{\v{c}}i{\'c}, Zdenko},
+  booktitle={Control and Automation (MED), 2016 24th Mediterranean Conference on},
+  pages={504--511},
+  year={2016},
+  organization={IEEE}
+}
