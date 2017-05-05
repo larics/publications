@@ -1,4 +1,7 @@
-# Emacs droppins
+# Emacs droppings
 \#*\#
 .\#*
 *~
+
+# JabRef backups
+*.bak
